@@ -22,14 +22,23 @@ struct Mapa
     int m_col;
     int p_row; //Player
     int p_col;
+
     int positionAsh;
     int gameState;
+    int pokemonsRequerios;
     int pokemonsCapturados;
     bool aparicionPokemon;
+    //Fichero
+    int numRows;
+    int numCols;
+    int pokeInicial;
+    int pokeInicialRequeridos;
+    int pokeBosque;
+    int pokeBosqueRequeridos;
 
 };
 
-	float* Read();
+	float* Read(Mapa mapa);
 
     void initializeMapa(Symbols& symbols, char board[NUM_ROWS][NUM_COLUMNS], Mapa& mapa);
     void printMapa(Symbols& symbols, char board[NUM_ROWS][NUM_COLUMNS], Mapa& mapa);

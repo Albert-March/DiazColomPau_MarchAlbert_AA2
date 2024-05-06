@@ -1,3 +1,4 @@
-﻿  Mapa.cpp
-H:\Visual Studio\Entrega AA2 - Primera fase PokENTI\Entrega AA2 - Primera fase PokENTI\Mapa.cpp(66,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-  Entrega AA2 - Primera fase PokENTI.vcxproj -> H:\Visual Studio\Entrega AA2 - Primera fase PokENTI\x64\Debug\Entrega AA2 - Primera fase PokENTI.exe
+﻿  Entrega AA2 - Primera fase PokENTI.cpp
+C:\Users\Albert\Desktop\Primera-fase-PokENTI\Entrega AA2 - Primera fase PokENTI\Entrega AA2 - Primera fase PokENTI.cpp(17,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Albert\Desktop\Primera-fase-PokENTI\Entrega AA2 - Primera fase PokENTI\Entrega AA2 - Primera fase PokENTI.cpp(25,17): warning C4804: '<=': uso no seguro del tipo 'bool' en la operación
+  Entrega AA2 - Primera fase PokENTI.vcxproj -> C:\Users\Albert\Desktop\Primera-fase-PokENTI\x64\Debug\Entrega AA2 - Primera fase PokENTI.exe

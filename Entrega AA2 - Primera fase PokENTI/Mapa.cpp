@@ -215,6 +215,7 @@ void printMapa(Symbols& symbols, char board[NUM_ROWS][NUM_COLUMNS], Mapa& mapa)
         }
         std::cout << std::endl;
     }
+    std::cout << "Pokemons Capturaos: " << mapa.pokemonsCapturados;
 
 }
 
